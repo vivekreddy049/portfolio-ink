@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://vivekreddy049.github.io/portfolio-ink/sitemap.xml
